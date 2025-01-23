@@ -42,13 +42,13 @@ body::before {
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(https://picsum.photos/1366/768?grayscale.webp); /* 背景图片，可自行替换 */
+  background-image: url(https://cdn.jsdelivr.net/gh/GD2021/picx-images-hosting@master/壁纸/638a73bc53ebb.5523aas6ksg0.2vejorge3g.webp); /* 背景图片，可自行替换 */
   z-index: 0;
 }
 
 @media screen and (max-width: 960px) {
   body::before {
-    background-image: url(https://picsum.photos/720/1280?grayscale.webp); /* 竖屏背景图片，可自行替换 */
+    background-image: url(https://cdn.jsdelivr.net/gh/GD2021/picx-images-hosting@master/壁纸/photo_2025-01-23_17-07-04.32i2ac3x3k.webp); /* 竖屏背景图片，可自行替换 */
   }
 }
 
