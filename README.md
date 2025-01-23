@@ -85,7 +85,7 @@ alist style adjustments and beautifications, all subjective adjustments. If by c
 `css` 自定义头部处引入：
 
 ```js
-<link href="https://cdn.jsdelivr.net/gh/kasuie/alist-customize@main/v3/css/index.min.css" rel="stylesheet" type="text/css" />
+<link href="https://wget.la/https://raw.githubusercontent.com/GD2021/alist-customize/main/v3/css/index.css" rel="stylesheet" type="text/css" />
 ```
 
 `js` 自定义内容处引入：
